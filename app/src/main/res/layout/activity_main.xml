@@ -12,7 +12,6 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/gameBtn"
             android:onClick="@{()->mainViewModel.gameBtnClick()}"
@@ -24,7 +23,29 @@
             android:background="@color/mainColor"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
-
+        <androidx.cardview.widget.CardView
+            android:id="@+id/ranking"
+            app:layout_constraintVertical_bias="0.8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:cardElevation="10dp"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/rankingShowBtn"
+                android:padding="15dp"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:text="랭킹 보기"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </androidx.cardview.widget.CardView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

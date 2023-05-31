@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--app_id-->
+    <string name="app_id" translatable="false">950382454297</string>
+    <!--package_name-->
+    <string name="package_name" translatable="false">com.shino72.physical</string>
+    <!--leaderboard 반응속도 순위-->
+    <string name="leaderboard" translatable="false">CgkImczVudQbEAIQAA</string>
+</resources>

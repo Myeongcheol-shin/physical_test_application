@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "950382454297",
+    "project_id": "api-project-94090562",
+    "storage_bucket": "api-project-94090562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950382454297:android:80470aad6a78ce4ddb6c88",
+        "android_client_info": {
+          "package_name": "com.shino72.physical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950382454297-kf2r4co435uvl93t4rbqghlnrvtjkibd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shino72.physical",
+            "certificate_hash": "8ca3468b110dbf1407675d375db5fbc7e71fbd7a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZ9R4kZiKY9NU_10SE2vJHvmx7HmGjHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
