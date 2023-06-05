@@ -8,3 +8,5 @@
 ## 시연 영상
 https://github.com/Myeongcheol-shin/physical_test_application/assets/82868004/7ece70c0-c6ff-4c86-ac80-b1ef809918d5
 
+## 다운로드 링크
+https://play.google.com/store/apps/details?id=com.shino72.physical
